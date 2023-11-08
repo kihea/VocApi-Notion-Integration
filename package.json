@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-console-app1",
+    "version": "0.0.0",
+    "description": "NodejsConsoleApp1",
+    "main": "app.js",
+    "author": {
+      "name": "Kihea"
+    },
+    "dependencies": {
+      "@notionhq/client": "^0.4.13",
+      "async": "^3.2.3",
+      "voc-api": "github:th0rgall/voc-api"
+    }
+  }
+  
